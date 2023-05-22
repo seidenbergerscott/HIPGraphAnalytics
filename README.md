@@ -1,1 +1,1 @@
-# hipGraphAnalytics
+# HIP Graph Analytics
