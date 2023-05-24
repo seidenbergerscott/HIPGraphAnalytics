@@ -4,6 +4,6 @@ pyvis
 holoviews
 hvplot
 numpy
-sklearn
+scikit-learn
 matplotlib
 plotly
